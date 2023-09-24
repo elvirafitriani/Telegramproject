@@ -30,3 +30,10 @@ python phototext.py
 ```
 
 Upload file photo png atau jpg ke https://t.me/Photo_totextbot
+
+
+
+
+
+Create with ❤️
+elvirafii
