@@ -10,10 +10,10 @@ Buka folder : cd telebot
 
 #1 Instalasi persiapan
 Instalasi Libraries:
-```phython
+```plaintext
 pip install python-telegram-bot instaloader```
 
-```python
+```plaintext
 pip install pytesseract Pillow```
 
 #2 Penggunaan
