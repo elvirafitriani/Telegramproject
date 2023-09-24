@@ -8,7 +8,10 @@ Contoh :
 mkdir telebot
 ```
 
-Buka folder : cd telebot
+Buka folder : 
+```
+cd telebot
+```
 
 # 1 Instalasi persiapan
 Instalasi Libraries:
