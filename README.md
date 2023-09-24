@@ -2,21 +2,20 @@
 Python for telegram bot
 
 # Photo to Text
-
 Buat folder baru :
-Contoh : mkdir telebot
+Contoh : 
+```plaintext
+mkdir telebot```
 
 Buka folder : cd telebot
 
-#1 Instalasi persiapan
+# 1 Instalasi persiapan
 Instalasi Libraries:
 ```plaintext
 pip install python-telegram-bot instaloader```
 
-```plaintext
-pip install pytesseract Pillow```
+pip install pytesseract Pillow
 
-#2 Penggunaan
 Jika semua sudah terinstal pada folder,
 Saatnya menjalankan script
 
