@@ -11,6 +11,7 @@ Buka folder :
 ```
 cd telebot
 ```
+###### Jika sudah punya folder sendiri bisa pakai folder sendiri
 
 # 1 Instalasi persiapan
 Instalasi Libraries:
