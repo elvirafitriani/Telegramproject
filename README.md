@@ -2,8 +2,7 @@
 Python for telegram bot
 
 # Photo to Text
-Buat folder baru :
-Contoh : 
+Buat folder baru Contoh : 
 ```
 mkdir telebot
 ```
